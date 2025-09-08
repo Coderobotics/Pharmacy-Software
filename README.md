@@ -5,6 +5,8 @@ Pharmacy Management System is designed for better interaction between Management
 
 <b>Pharmacy Management System has the following core modules:</b>
 
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738547418_6d130395b2090bc8f9d1.webp">
+
 <ul>
 <li>Administrator</li>
 <li>Employee Master</li>
@@ -15,5 +17,16 @@ Pharmacy Management System is designed for better interaction between Management
 <li>Assets Details</li>
 <li>Reports</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/pharmacy-software/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/pharmacy-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
+
